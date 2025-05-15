@@ -22,7 +22,7 @@ Additionally, we extract Freebase KGs for each entity set using multi-hop expans
 
 ## Dataset Format
 
-- Size: `30GB`
+- Size: unzipped `4.38GB`, zipped `1.27GB` 
 - Fields / Columns in `JSON` file:
   - `id` — sample id
   - `set` — in which set (train/dev/test) the sample belongs to
